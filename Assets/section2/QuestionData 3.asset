@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36b1b4f55b1f314db1f6eec80d25528, type: 3}
+  m_Name: QuestionData 3
+  m_EditorClassIdentifier: 
+  question: "S\xF3ng \xE2m kh\xF4ng th\u1EC3 truy\u1EC1n \u0111\u01B0\u1EE3c trong
+    m\xF4i tr\u01B0\u1EDDng n\xE0o?"
+  answerA: "Ch\xE2n kh\xF4ng"
+  answerB: "Kh\xF4ng kh\xED"
+  answerC: "V\xE0ng"
+  answerD: "Th\u1EE7y ng\xE2n"
+  correctAnswer: a
